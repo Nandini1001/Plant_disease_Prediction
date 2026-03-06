@@ -25,9 +25,10 @@ plant-disease-streamlit/
 ```
 # Usage
 1)Run the Streamlit app:
-'''
+```
 streamlit run app.py
-'''
+```
+
 2)The app will open in your browser.
 
 3)Upload a leaf image using the file uploader.
